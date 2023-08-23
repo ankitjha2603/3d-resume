@@ -224,7 +224,7 @@ const text_hover_box = (x, y, width) => {
   backgroundMesh.visible = false;
   return backgroundMesh;
 };
-const basic_url = "https://ankitjha2603.github.io/3d-resume/asssets";
+const basic_url = "https://ankitjha2603.github.io/3d-resume/assets";
 const contact_detain_block = (x, y, block_icon_src, text, bgw, social_link) => {
   const block_icon_mesh = new THREE.Mesh(
     new THREE.PlaneGeometry(2, 2),
