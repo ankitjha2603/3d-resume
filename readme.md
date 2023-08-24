@@ -26,7 +26,3 @@ Explore the 3D Resume live: [Launch 3D Resume](https://ankitjha2603.github.io/3d
 ## Author
 
 [Ankit Kumar Jha](https://github.com/ankitjha2603)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
