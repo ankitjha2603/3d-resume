@@ -21,6 +21,7 @@ Explore the 3D Resume live: [Launch 3D Resume](https://ankitjha2603.github.io/3d
 
 - Three.js: JavaScript library for 3D graphics.
 - OrbitControls: Orbit controls for camera manipulation.
+- dat.gui: Interactive UI for adjusting parameters.
 
 ## Author
 
