@@ -342,6 +342,15 @@ process.detail_block = () => {
     12,
     "https://hub.docker.com/u/ankitjha2603"
   );
+
+  contact_detain_block(
+    59,
+    -3,
+    "youtube",
+    "Youtube",
+    12,
+    "https://www.youtube.com/@CognitiveAnkit"
+  );
 };
 //--------------------------------------------
 
@@ -454,10 +463,10 @@ process.projects = () => {
     0x0e2d4b,
     "Noto Sans Medium_Regular.json"
   );
-  //3d city tour
+  //ReadSculpt : Crafting Futures from Past Pages
   create_list_dot(-32, -35.5, 0);
   makeText(
-    "3d city tour",
+    "ReadSculpt : Crafting Futures from Past Pages",
     -10,
     -36,
     0,
@@ -466,69 +475,70 @@ process.projects = () => {
     "Noto Sans SemiBold_Regular.json"
   );
   makeText(
-    `Made with three.js and YUKA, our 3D website lets\nusers take immersive city tours in virtual cars.\nWe've added time options and realistic\nlighting for an even more authentic experience.`,
+    `ReadScript: Your literary haven! Explore a diverse book\ncollection, engage with likes and comments, and \nanticipate upcoming features like User Profiles for a \ncomplete bookish experience.`,
     -10,
-    -38,
+    -38.5,
     0,
     1,
     0x000000,
     "Noto Sans Thin_Regular.json"
   );
-  //Falling ball
-  create_list_dot(-32, -49.5, 0);
+  //Costly item
+  create_list_dot(-32, -48.5, 0);
   makeText(
-    "Falling ball",
+    "Costly item",
     -10,
-    -50,
+    -49,
     0,
     1,
     0x000000,
     "Noto Sans SemiBold_Regular.json"
   );
   makeText(
-    `Try our interactive 3D Ball Physics Sim: Click to\ncreate realistic balls. Watch them fall, bounce, and\nroll convincingly with gravity, bringing true physics\nto your screen.`,
+    `Python software for comparing prices from multiple\nwebsites, finding affordable alternatives, all on one\nscreen.`,
     -10,
-    -53,
+    -52,
     0,
     1,
     0x000000,
     "Noto Sans Thin_Regular.json"
   );
-  //Play connect
-  create_list_dot(-32, -63.5, 0);
+  //Typing effect
+  create_list_dot(-32, -59.5, 0);
   makeText(
-    "Play connect",
+    "Typing effect",
     -10,
-    -64,
+    -60,
     0,
     1,
     0x000000,
     "Noto Sans SemiBold_Regular.json"
   );
   makeText(
-    `Real-time multiplayer game built with React,\nenabling seamless gameplay across locations.\nImplemented login, code sharing, and engaging\nchallenges for players at a distance.`,
+    `Created a typing effect tool for websites, adding\ndynamic text animations with a simple link.`,
     -10,
-    -67,
+    -63,
     0,
     1,
     0x000000,
     "Noto Sans Thin_Regular.json"
   );
-  //Play connect
-  create_list_dot(-32, -77.5, 0);
+  //Advance web scraper amazon
+  let temp = 9;
+  create_list_dot(-32, -77.5 + temp, 0);
   makeText(
-    "Costly Item",
+    "Advance web scraper amazon",
     -10,
-    -78,
+    -78 + temp,
     0,
     1,
     0x000000,
     "Noto Sans SemiBold_Regular.json"
   );
   makeText(
-    `Python software for comparing prices from\nmultiple websites, finding affordable alternatives,\nall on one screen.`,
+    `Amazon data extraction tool: captures product info,\nratings, screenshots, and reviews. Users can save data as\n.xlsx and set a time limit for comment extraction to\noptimize efficiency for products with numerous\ncomments across multiple pages.`,
     -10,
-    -81,
+    -81 + temp,
     0,
     1,
     0x000000,
